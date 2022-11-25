@@ -2,6 +2,8 @@
 
 [![Build Status][build-status-badge]][workflow-status]
 
+Mein Senf!
+
 ---
 
 [Git Credential Manager][gcm] (GCM) is a secure
